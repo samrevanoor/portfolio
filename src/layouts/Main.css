@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap");
+
+body {
+  background-color: #1c1c1c;
+  color: lightgray;
+}
+
+.container {
+  margin: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  font-family: "Roboto Mono", monospace;
+}
+
+.title {
+  color: lightskyblue;
+}
+
+.value {
+  color: orange;
+}
+
+.brace {
+  color: rgb(189, 1, 1);
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
