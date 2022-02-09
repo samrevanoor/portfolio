@@ -2,6 +2,9 @@
 
 body {
   background-color: #1c1c1c;
+  background-image: url(../helpers/hearts.gif);
+  background-size: 900px;
+  background-repeat: repeat;
   color: lightgray;
 }
 
