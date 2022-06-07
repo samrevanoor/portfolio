@@ -10,17 +10,19 @@ const Main = () => {
           &nbsp; <span className="title">name:</span>{" "}
           <span className="value">"sam revanoor"</span>, <br />
           &nbsp; <span className="title">job:</span>{" "}
-          <span className="value">"associate software engineer at trint"</span>
+          <span className="value">"software engineer at trint"</span>
           , <br />
           &nbsp; <span className="title">tech_stack:</span>{" "}
           <span className="brace">{"["}</span>
           <span className="value">"javascript"</span>,
-          <span className="value">"react"</span>,{" "}
-          <span className="value">"node"</span>,{" "}
-          <span className="value">"express"</span>,{" "}
-          <span className="value">"mongodb"</span>,{" "}
-          <span className="value">"python"</span>,{" "}
-          <span className="value">"django"</span>
+          <span className="value">"typescript"</span>,
+          <span className="value">"react"</span>,
+          <span className="value">"mongodb"</span>,
+          <span className="value">"python"</span>,
+          <span className="value">"django"</span>,
+          <span className="value">"docker"</span>,
+          <span className="value">"aws"</span>,
+          <span className="value">"terraform"</span>
           <span className="brace">{"]"}</span>, <br />
           &nbsp; <span className="title">github:</span>{" "}
           <span className="value">
