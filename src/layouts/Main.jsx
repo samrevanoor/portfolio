@@ -17,12 +17,12 @@ const Main = () => {
           <span className="value">"javascript"</span>,
           <span className="value">"typescript"</span>,
           <span className="value">"react"</span>,
-          <span className="value">"mongodb"</span>,
-          <span className="value">"python"</span>,
-          <span className="value">"django"</span>,
-          <span className="value">"docker"</span>,
           <span className="value">"aws"</span>,
-          <span className="value">"terraform"</span>
+          <span className="value">"docker"</span>,
+          <span className="value">"terraform"</span>,
+          <span className="value">"serverless"</span>
+          <span className="value">"python"</span>,
+          <span className="value">"mongodb"</span>
           <span className="brace">{"]"}</span>, <br />
           &nbsp; <span className="title">github:</span>{" "}
           <span className="value">

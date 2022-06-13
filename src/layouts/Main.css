@@ -20,7 +20,7 @@ body {
 }
 
 .title {
-  color: lightskyblue;
+  color: #61a6bd;
 }
 
 .value {
@@ -28,7 +28,7 @@ body {
 }
 
 .brace {
-  color: rgb(189, 1, 1);
+  color: rgb(215, 40, 40);
 }
 
 a {
