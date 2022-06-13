@@ -20,7 +20,7 @@ const Main = () => {
           <span className="value">"aws"</span>,
           <span className="value">"docker"</span>,
           <span className="value">"terraform"</span>,
-          <span className="value">"serverless"</span>
+          <span className="value">"serverless"</span>,
           <span className="value">"python"</span>,
           <span className="value">"mongodb"</span>
           <span className="brace">{"]"}</span>, <br />
